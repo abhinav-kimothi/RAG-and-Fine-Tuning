@@ -1,0 +1,16 @@
+cohere 
+tiktoken 
+openai
+text_generation
+gradio
+PyPDF2
+transformers
+datasets
+langchain
+faiss-cpu
+transformers[torch]
+bitsandbytes
+pandas
+bs4
+scikit-learn
+
