@@ -13,4 +13,4 @@ bitsandbytes
 pandas
 bs4
 scikit-learn
-
+accelerate
