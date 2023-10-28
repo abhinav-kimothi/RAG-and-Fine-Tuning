@@ -14,3 +14,5 @@ pandas
 bs4
 scikit-learn
 accelerate
+trl
+peft
